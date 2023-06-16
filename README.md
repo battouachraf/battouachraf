@@ -30,9 +30,9 @@
 </p>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=battouachraf&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=battouachraf&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=battouachraf&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api?username=battouachraf&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" alt="battouachraf" /></p>
+<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=battouachraf&theme=chartreuse-dark&hide_border=false" alt="battouachraf" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=battouachraf&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="battouachraf" /></p>
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=achrafbattou)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
