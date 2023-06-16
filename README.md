@@ -1,5 +1,5 @@
 <h1 align="center">~$ echo 'Hi 👋, I'm Achraf' > /tmp/hello.txt</h1>
-<h3 align="center">Interested in Web app dev & Pentesting</h3>
+<h3 align="center">~$ echo 'Interested in Web App Dev & Pentesting' >> /tmp/hello.txt</h3>
 
 - 📝 I regularly write articles on [https://battouachraf.github.io/](https://battouachraf.github.io/)
 
