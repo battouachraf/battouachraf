@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://battouachraf.github.io/](https://battouachraf.github.io/)
 
-- 📫 How to reach me **achraf@test.me**
+- 📫 How to reach me **battouachraf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
