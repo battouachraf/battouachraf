@@ -6,7 +6,7 @@
 - 📫 How to reach me **battouachraf@gmail.com**
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/achraf.battou) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/achrafbattou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](javascript:alert(1)) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](javascript:alert(1)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](javascript:alert(1)) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/achraf.battou) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/achrafbattou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](javascript:alert(1)) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](#) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](javascript:alert(1)) 
 
 ## 💻 Languages and Tools:
 <p align="left">
