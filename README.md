@@ -1,9 +1,11 @@
-<h1 align="center">~$ echo 'Hi 👋, I'm Achraf' > /tmp/hello.txt</h1>
-<h3 align="center">~$ echo 'Interested in Web App Dev & Pentesting' >> /tmp/hello.txt</h3>
+<h1 align="center">~$ echo "Hi 👋, I am Achraf" > /tmp/hello.txt</h1>
+<h3 align="center">~$ echo "Interested in Web App Dev & Pentesting" >> /tmp/hello.txt</h3>
 
 - 📝 I regularly write articles on [https://battouachraf.github.io/](https://battouachraf.github.io/)
 
 - 📫 How to reach me **battouachraf@gmail.com**
+
+[![](https://visitcount.itsvg.in/api?id=battouachraf&icon=2&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/achraf.battou) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/achrafbattou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](#) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](#) 
@@ -31,12 +33,11 @@
 
 ## 📊 GitHub Stats:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=battouachraf&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" alt="battouachraf" /></p>
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=battouachraf&theme=chartreuse-dark&hide_border=false" alt="battouachraf" /></p>
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=battouachraf&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="battouachraf" /></p>
+<p align="center"><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=battouachraf&theme=chartreuse-dark&hide_border=false" alt="battouachraf" /></p>
+<p align="center"><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=battouachraf&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="battouachraf" /></p>
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=achrafbattou)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=battouachraf&icon=2&color=12)](https://visitcount.itsvg.in)
 
