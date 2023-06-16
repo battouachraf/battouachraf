@@ -1,6 +1,5 @@
 <h1 align="center">~$ echo 'Hi 👋, I'm Achraf' > /tmp/hello.txt</h1>
 <h3 align="center">Interested in Web app dev & Pentesting</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=battouachraf&label=Profile%20views&color=0e75b6&style=flat" alt="battouachraf" /> </p>
 
 - 📝 I regularly write articles on [https://battouachraf.github.io/](https://battouachraf.github.io/)
 
